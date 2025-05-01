@@ -1,0 +1,11 @@
+# Virtual environment directories
+venv/
+env/
+.venv/
+ENV/
+
+# Virtual environment files
+*.py[cod]
+__pycache__/
+*.so
+.Python
